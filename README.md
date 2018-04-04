@@ -28,7 +28,7 @@ optional arguments:
   -s, --status          check domains status
 ```
 
-# About statCheck
+# About doMain
 
 `doMain` is a multithreaded python3 tool designed to generate information like admin emails or status of domains by querying DNS servers using third party databases.
 
@@ -36,7 +36,7 @@ optional arguments:
 
 This tool was developed for python3.
 
-    git clone https://github.com/marcosValle/statCheck.git
+    git clone https://github.com/marcosValle/doMain.git
 
 We strongly recommend using a virtualenv. After cloning:
 
